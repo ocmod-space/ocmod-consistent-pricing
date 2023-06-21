@@ -23,15 +23,16 @@ Note that the extension does not determine the location of customers - it uses t
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* [Admin](http://ocmod.freevar.com/oc3020/a/) - module settings
+[Administration](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing)  
+[Store Front](https://demo.ocmod.space/a/)  
 
 ## License
-* [End-User License Agreement](EULA.txt)
+[End-User License Agreement](EULA.txt)  
 
 ## Download
-* [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968)
+[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968)  
 
 ## Related extensions
-* [Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) - allows customers to join other groups and get access to special prices or discounts available to this group.
-* [Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) - allows to specify default customer group to assign it for all new registered customers.
-* [Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - allows to display customer quantity in groups.
+[Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) - allows customers to join other groups and get access to special prices or discounts available to this group.  
+[Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) - allows to specify default customer group to assign it for all new registered customers.  
+[Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - allows to display customer quantity in groups.  
