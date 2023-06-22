@@ -18,12 +18,12 @@ An example of pricing for a store in the UK and a customer in Finland:
 * Compatible with the Geo IP Tools.
 * Does not modify system files (OCMOD).
 
-## Additional information
-Note that the extension does not determine the location of customers - it uses the address of registered customers, or shipping address (after it set in the cart). To determine customer countries, use third-party modules such as the excellent [Geo IP Tools](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19084) module.
-
 ## Live demo
 [Administration](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing)  
 [Store Front](https://demo.ocmod.space/a/)  
+
+## Additional information
+Note that the extension does not determine the location of customers - it uses the address of registered customers, or shipping address (after it set in the cart). To determine customer countries, use third-party modules such as the excellent [Geo IP Tools](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19084) module.
 
 ## License
 [End-User License Agreement](../EULA.txt)  
