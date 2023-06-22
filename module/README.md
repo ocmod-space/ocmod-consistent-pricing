@@ -27,7 +27,7 @@ Note that the extension does not determine the location of customers - it uses t
 [Store Front](https://demo.ocmod.space/a/)  
 
 ## License
-[End-User License Agreement](EULA.txt)  
+[End-User License Agreement](../EULA.txt)  
 
 ## Download
 [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968)  
