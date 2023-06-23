@@ -19,8 +19,8 @@ An example of pricing for a store in the UK and a customer in Finland:
 * Does not modify system files (OCMOD).
 
 ## Live demo
-Extension [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing)  
-[Store Front](https://demo.ocmod.space/a/)  
+* Extension [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing).
+* [Store Front](https://demo.ocmod.space/a/.
 
 ## Additional information
 Note that the extension does not determine the location of customers - it uses the address of registered customers, or shipping address (after it set in the cart). To determine customer countries, use third-party modules such as the excellent [Geo IP Tools](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19084) module.
@@ -29,9 +29,10 @@ Note that the extension does not determine the location of customers - it uses t
 [End-User License Agreement](../EULA.txt)  
 
 ## Download
-[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968)  
+* [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968)
+* [OCMod Space](https://www.ocmod.space/consistent-pricing)
 
 ## Related extensions
-[Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) - allows customers to join other groups and get access to special prices or discounts available to this group.  
-[Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) - allows to specify default customer group to assign it for all new registered customers.  
-[Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - allows to display customer quantity in groups.  
+* [Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) - allows customers to join other groups and get access to special prices or discounts available to this group.
+* [Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) - allows to specify default customer group to assign it for all new registered customers.
+* [Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - allows to display customer quantity in groups.
