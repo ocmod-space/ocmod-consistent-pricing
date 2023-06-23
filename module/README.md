@@ -19,7 +19,7 @@ An example of pricing for a store in the UK and a customer in Finland:
 * Does not modify system files (OCMOD).
 
 ## Live demo
-[Module settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing)  
+Extension [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing)  
 [Store Front](https://demo.ocmod.space/a/)  
 
 ## Additional information
