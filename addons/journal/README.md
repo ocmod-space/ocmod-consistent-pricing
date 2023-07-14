@@ -1,4 +1,4 @@
-# Consistent Pricing|Journal 3
+# Consistent Pricing|Journal
 
 ## Description
-An addon to add compatybility with the Journal 3 theme.
+**Journal** theme compatibility.
