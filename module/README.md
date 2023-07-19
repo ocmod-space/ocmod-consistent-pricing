@@ -33,6 +33,7 @@ Note that the extension does not determine the location of customers - it uses t
 * [**Consistent Pricing**](https://www.ocmod.space/consistent-pricing) web page.
 
 ## Related extensions
+* Automatically move customers to more privileged customer groups when their spending reaches set thresholds using the [**Customer Loyalty**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646) module.
 * Use the [**Invite Code**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) module to allow customers to join other customer groups, for example to access discounts available to those groups.
 * Automatically assign newly registered customers to a defined customer group by using the [**Default Registration Group**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) extension.
 * Check the number of members in customer groups using the [**Customer Group Size**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) extension.
