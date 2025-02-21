@@ -5,19 +5,22 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 
 ## Install
 * Extensions → Installer → [Upload]: `consistent_pricing.ocmod.zip`
+* {4.x} Extensions → Installer → /ocmod.space/consistent_pricing → [Install]
 * Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/consistent_pricing → [Install]→ [Edit] → [Save]
+* {3.x} Dashboard → [Developer Settings] → [Refresh]
+* {4.x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {4.x} Dashboard → [Developer Settings] → Theme → [Refresh]
+* Extensions → Extensions → Modules → /ocmod.space/consistent_pricing → [Install]
 
 ## Uninstall
 * Extensions → Extensions → Modules → /ocmod.space/consistent_pricing → [Uninstall]
-* Extensions → Installer → Install History → `consistent_pricing.ocmod.zip` → [Uninstall]
+* {3.x} Extensions → Installer → Install History → `consistent_pricing.ocmod.zip` → [Uninstall]
+* {4.x} Extensions → Installer → /ocmod.space/consistent_pricing → [Uninstall]
+* {4.x} Extensions → Installer → /ocmod.space/consistent_pricing → [Delete]
 * Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
+* {3.x} Dashboard → [Developer Settings] → [Refresh]
+* {4.x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {4.x} Dashboard → [Developer Settings] → Theme → [Refresh]
 
-## Update
-* Extensions → Installer → Install History → `consistent_pricing.ocmod.zip` → [Uninstall]
-* Extensions → Installer → [Upload]: `consistent_pricing.ocmod.zip`
-* Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/consistent_pricing → [Install] → [Edit] → [Save]
+## Configure
+* Extensions → Extensions → Modules → /ocmod.space/consistent_pricing → [Edit]

@@ -1,39 +1,35 @@
 # Consistent Pricing
 
 ## Description
-**Consistent Pricing** is an OpenCart extension that allows foreign customers to get the same gross prices as in the country (despite different VAT rates), in order to meet the requirements of the pricing policy in the EU.
-Compatible with OpenCart 3.x versions.
+The **Consistent Price** module ensures that your customers see the same final price, regardless of their country's tax rate. It automatically adjusts the base price and tax amount so that the total order price remains unchanged.
 
-An example of pricing for a store in the UK and a customer in Finland:
+This is especially useful if your store uses tax-inclusive pricing and you want to avoid price variations caused by different VAT rates across EU countries.
 
-| Location | Price (excl. tax), € | VAT, % | VAT, € | Price (incl. tax), € |
-|---|---|---|---|---|
-| UK (store) | 10 | 20 | 2 | 12 |
-| Finland (customer) | 9.6874 | 24 | 2.3226 | 12 |
+Compatible with OpenCart 3.x (PHP ≥ 7.x.).
 
 ## Features
-* Uniform gross prices regardless of the shipping country VAT rate.
-* Supports shipping methods, handling and low order fee modules.
-* Compatible with the Journal 3 theme (via addon).
-* Compatible with the Geo IP Tools.
+* Maintains uniform gross prices regardless of the destination country's VAT rate.
+* Supports shipping, handling, and low order fee adjustments.
+* Compatible with the Journal 3 theme.
 * Does not modify system files (OCMOD).
 
-## Live demo
-* Extension [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing).
-* [Store Front](https://demo.ocmod.space/a/.
+The module does not determine the customer's location — it uses the registered customer's address or the shipping address (once set in the cart). If you need to detect customer locations, use third-party modules like the excellent [Geo IP Tools](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19084) module.
 
-## Additional information
-Note that the extension does not determine the location of customers - it uses the address of registered customers, or shipping address (after it set in the cart). To determine customer countries, use third-party modules such as the excellent [Geo IP Tools](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19084) module.
+## Restrictions
+This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
+
+## Live demo
+* [Admin dashboard](https://demo.ocmod.space/a/admin/index.php?route=extension/module/consistent_pricing)
+* [Storefront](https://demo.ocmod.space/a/)
 
 ## License
-[End-User License Agreement](../EULA.txt).
+[End-User License Agreement](../EULA.en.txt)
 
-## Links
-* **Consistent Pricing** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968).
-* [**Consistent Pricing**](https://www.ocmod.space/consistent-pricing) web page.
+## Download
+[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968)
 
 ## Related extensions
-* Automatically move customers to more privileged customer groups when their spending reaches set thresholds using the [**Customer Loyalty**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646) module.
-* Use the [**Invite Code**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) module to allow customers to join other customer groups, for example to access discounts available to those groups.
-* Automatically assign newly registered customers to a defined customer group by using the [**Default Registration Group**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) extension.
-* Check the number of members in customer groups using the [**Customer Group Size**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) extension.
+* Automatically upgrade customers to privileged groups when their spending reaches set thresholds using the [Customer Loyalty](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646) module.
+* Use the [Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) module to let customers join specific groups, e.g., to access exclusive discounts.
+* Automatically assign newly registered customers to a predefined group with the [Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) extension.
+* Track the number of members in customer groups using the [Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) extension.

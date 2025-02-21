@@ -1,5 +1,9 @@
 # Change log
 
+## [1.0.3] - 2025.02.20:
+### Fixed
+- Incorrect handling of decimal tax rates.
+
 ## [1.0.2] - 2023.12.08:
 ### Internal
 - Update coding standards.
