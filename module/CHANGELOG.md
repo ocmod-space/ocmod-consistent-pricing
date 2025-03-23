@@ -1,12 +1,18 @@
 # Change log
 
+## [1.1.0] - 2025.03.23:
+### Added
+- Compatibility with OC 4.1.0.2 and later.
+### Internal
+- File rearranging.
+
 ## [1.0.3] - 2025.02.20:
 ### Fixed
 - Incorrect handling of decimal tax rates.
 
 ## [1.0.2] - 2023.12.08:
 ### Internal
-- Update coding standards.
+- Updating coding standards.
 
 ## [1.0.1] - 2023.07.20:
 ### Fixed
