@@ -5,12 +5,12 @@ The **Consistent Price** module ensures that your customers see the same final p
 
 This is especially useful if your store uses tax-inclusive pricing and you want to avoid price variations caused by different VAT rates across EU countries.
 
-Compatible with OpenCart 3.x (PHP ≥ 7.x.).
+Compatible with all OpenCart 3.x.x.x (PHP ≥ 7.x) and OpenCart 4.1.0.2 or later (PHP ≥ 8.x).
 
 ## Features
 * Maintains uniform gross prices regardless of the destination country's VAT rate.
 * Supports shipping, handling, and low order fee adjustments.
-* Compatible with the Journal 3 theme.
+* Compatible with the Journal 3 theme (OpenCart 3.x.x.x).
 * Does not modify system files (OCMOD).
 
 The module does not determine the customer's location — it uses the registered customer's address or the shipping address (once set in the cart). If you need to detect customer locations, use third-party modules like the excellent [Geo IP Tools](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19084) module.
