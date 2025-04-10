@@ -5,7 +5,7 @@ The **Consistent Price** module ensures that your customers see the same final p
 
 This is especially useful if your store uses tax-inclusive pricing and you want to avoid price variations caused by different VAT rates across EU countries.
 
-Compatible with all OpenCart 3.x.x.x (PHP ≥ 7.x) and OpenCart 4.1.0.2 or later (PHP ≥ 8.x).
+Compatible with OpenCart 3.x (PHP ≥ 7.x).
 
 ## Features
 * Maintains uniform gross prices regardless of the destination country's VAT rate.
