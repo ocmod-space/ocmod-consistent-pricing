@@ -7,6 +7,8 @@ This is especially useful if your store uses tax-inclusive pricing and you want 
 
 Compatible with OpenCart 3.x (PHP ≥ 7.x).
 
+**Note**: The source code is encrypted for security reasons. For purchasing and licensing details, please refer to the OpenCart Marketplace link in the **Download** section below.
+
 ## Features
 * Maintains uniform gross prices regardless of the destination country's VAT rate.
 * Supports shipping, handling, and low order fee adjustments.
