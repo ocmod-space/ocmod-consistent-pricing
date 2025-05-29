@@ -13,7 +13,7 @@ Compatible with OpenCart 3.x (PHP 7.x and above).
 * Maintains uniform gross prices regardless of the destination country's VAT rate.
 * Supports shipping, handling, and low order fee adjustments.
 * Compatible with the Journal 3 theme (OpenCart 3.x.x.x).
-* Does not modify system files (OCMOD).
+* No core file modifications (OCMOD).
 
 The module does not determine the customer's location — it uses the registered customer's address or the shipping address (once set in the cart). If you need to detect customer locations, use third-party modules like the excellent [Geo IP Tools](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19084) module.
 
