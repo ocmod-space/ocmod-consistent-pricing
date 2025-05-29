@@ -1,11 +1,11 @@
 # Consistent Pricing
 
 ## Description
-The **Consistent Price** module ensures that your customers see the same final price, regardless of their country's tax rate. It automatically adjusts the base price and tax amount so that the total order price remains unchanged.
+**Consistent Price** is an OpenCart module that ensures customers see the same final price regardless of their country's tax rate. It automatically adjusts base price and tax so the total order price stays consistent.
 
 This is especially useful if your store uses tax-inclusive pricing and you want to avoid price variations caused by different VAT rates across EU countries.
 
-Compatible with OpenCart 3.x (PHP ≥ 7.x).
+Compatible with 3.x (PHP 7.x and above).
 
 **Note**: The source code is encrypted for security reasons. For purchasing and licensing details, please refer to the OpenCart Marketplace link in the **Download** section below.
 
