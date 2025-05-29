@@ -5,7 +5,7 @@
 
 This is especially useful if your store uses tax-inclusive pricing and you want to avoid price variations caused by different VAT rates across EU countries.
 
-Compatible with 3.x (PHP 7.x and above).
+Compatible with 3.x (PHP 7.x+).
 
 **Note**: The source code is encrypted for security reasons. For purchasing and licensing details, please refer to the OpenCart Marketplace link in the **Download** section below.
 
