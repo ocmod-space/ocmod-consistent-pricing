@@ -2,7 +2,7 @@
 
 ## [1.1.1] - 2025.04.10:
 ### Fixed
-- OC 4.x compatibility.
+- OC 4.x compatibility (test-mode).
 
 ## [1.1.0] - 2025.03.23:
 ### Added
